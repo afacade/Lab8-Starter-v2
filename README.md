@@ -1,7 +1,7 @@
 # Lab8-Starter
 
 Nam Nguyen
-Page URL: https://afacade.github.io/Lab8-Starter/index.html
+Page URL: https://afacade.github.io/Lab8-Starter-v2/index.html
 
 PWA.PNG:
 
